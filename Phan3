@@ -1,0 +1,21 @@
+# 1. Clone repo
+git clone _s_________ __________
+
+# 2. Tạo branch
+git __________ feature/student
+
+# 3. Chuyển branch
+git __________ feature/student
+
+# 4. Thêm file
+git __________ student.txt
+
+# 5. Commit
+git __________ -m "Add student file"
+
+# 6. Merge vào main
+git checkout main
+git __________ feature/student
+
+# 7. Tạo tag
+git __________ v1.0
